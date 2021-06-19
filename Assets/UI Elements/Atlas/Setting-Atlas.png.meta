@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: 46863607c3ca9c04db332bf9b5c6a470
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1416145022138929527
+    second: Setting-Atlas_0
+  - first:
+      213: -2882232049988443826
+    second: Setting-Atlas_1
+  - first:
+      213: -7615139719598745830
+    second: Setting-Atlas_3
+  - first:
+      213: 629759504537989325
+    second: Setting-Atlas_8
+  - first:
+      213: 5657056613153788091
+    second: Setting-Atlas_9
+  - first:
+      213: 654290038647044064
+    second: Setting-Atlas_21
+  - first:
+      213: -3534996068791149090
+    second: Setting-Atlas_22
+  - first:
+      213: -9170361815776169563
+    second: Setting-Atlas_26
+  - first:
+      213: -6182057784747662467
+    second: Setting-Atlas_30
+  - first:
+      213: 8733238151876306409
+    second: Setting-Atlas_31
+  - first:
+      213: -7145168700397950981
+    second: Setting-Atlas_32
+  - first:
+      213: -851230313589618747
+    second: Setting-Atlas_2
+  - first:
+      213: -8110847287628744751
+    second: Setting-Atlas_4
+  - first:
+      213: -90983208952498571
+    second: Setting-Atlas_5
+  - first:
+      213: -5383231366616513557
+    second: Setting-Atlas_6
+  - first:
+      213: 7038532881280867287
+    second: Setting-Atlas_7
+  - first:
+      213: 180521204293126707
+    second: Setting-Atlas_10
+  - first:
+      213: -8526825621900529776
+    second: Setting-Atlas_11
+  - first:
+      213: 5871184809473127802
+    second: Setting-Atlas_12
+  - first:
+      213: 7291149795977598201
+    second: Setting-Atlas_13
+  - first:
+      213: 7622651573747260281
+    second: Setting-Atlas_14
+  - first:
+      213: -8480740110706748551
+    second: Setting-Atlas_15
+  - first:
+      213: -6465839747251785575
+    second: Setting-Atlas_16
+  - first:
+      213: 875154783503586403
+    second: Setting-Atlas_17
+  - first:
+      213: -3736515582777420544
+    second: Setting-Atlas_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Setting-Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 1159
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7715703056827a310800000000000000
+      internalID: 1416145022138929527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting-Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 944
+        width: 119
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e416134a8314008d0800000000000000
+      internalID: -2882232049988443826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting-Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 876
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17595295c6915690800000000000000
+      internalID: -7615139719598745830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting-Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 808
+        width: 106
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0b9e9ceea5db800800000000000000
+      internalID: 629759504537989325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting-Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 732
+        width: 139
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb05e4d6407e18e40800000000000000
+      internalID: 5657056613153788091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting-Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 649
+        width: 149
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e732a5d251841900800000000000000
+      internalID: 654290038647044064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting-Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 550
+        width: 179
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd1d4dfdcb21fec0800000000000000
+      internalID: -3534996068791149090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting-Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 469
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1fad4e3845cb080800000000000000
+      internalID: -9170361815776169563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting-Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 390
+        width: 122
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d736d2fd23be43aa0800000000000000
+      internalID: -6182057784747662467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting-Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 158
+        width: 821
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5e97514d1b23970800000000000000
+      internalID: 8733238151876306409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting-Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 236
+        width: 223
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf76a887ce247dc90800000000000000
+      internalID: -7145168700397950981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting-Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 402
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c742703a82df24f0800000000000000
+      internalID: -851230313589618747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting-Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 291
+        width: 71
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7b2717d5b707f80800000000000000
+      internalID: -8110847287628744751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting-Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 291
+        width: 71
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5767cd5e043ccbef0800000000000000
+      internalID: -90983208952498571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting-Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 310
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be30519f79bea45b0800000000000000
+      internalID: -5383231366616513557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting-Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 308
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db17a02d54eda160800000000000000
+      internalID: 7038532881280867287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting-Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 311
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a41503417518200800000000000000
+      internalID: 180521204293126707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting-Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 310
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f6be02641aaa980800000000000000
+      internalID: -8526825621900529776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting-Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 312
+        width: 133
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75b0533a73aa7150800000000000000
+      internalID: 5871184809473127802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting-Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 130
+        width: 222
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f41869fb1e5f2560800000000000000
+      internalID: 7291149795977598201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting-Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 25
+        width: 222
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b17c3483919c960800000000000000
+      internalID: 7622651573747260281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting-Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 158
+        width: 290
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973daec5dcb5e4a80800000000000000
+      internalID: -8480740110706748551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting-Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 23
+        width: 289
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990b472e109b446a0800000000000000
+      internalID: -6465839747251785575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting-Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 24
+        width: 315
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364173a83ac252c00800000000000000
+      internalID: 875154783503586403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting-Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 494
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00517d6dfda352cc0800000000000000
+      internalID: -3736515582777420544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

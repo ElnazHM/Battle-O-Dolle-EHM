@@ -1,0 +1,516 @@
+fileFormatVersion: 2
+guid: 1e2107f059a60504ba39a37b2afcf381
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7344831525743782279
+    second: Heroes-Atlas_0
+  - first:
+      213: -1660925865328963984
+    second: Heroes-Atlas_1
+  - first:
+      213: 7188761491245196328
+    second: Heroes-Atlas_2
+  - first:
+      213: 245633262443521001
+    second: Heroes-Atlas_3
+  - first:
+      213: 393330602795356666
+    second: Heroes-Atlas_4
+  - first:
+      213: -737429385601497992
+    second: Heroes-Atlas_5
+  - first:
+      213: -8451614903424883111
+    second: Heroes-Atlas_6
+  - first:
+      213: -4147245886746878473
+    second: Heroes-Atlas_7
+  - first:
+      213: 9078533379096444346
+    second: Heroes-Atlas_8
+  - first:
+      213: 2543731312140923991
+    second: Heroes-Atlas_15
+  - first:
+      213: -1391534059632778084
+    second: Heroes-Atlas_22
+  - first:
+      213: 5550648085309388949
+    second: Heroes-Atlas_23
+  - first:
+      213: 7495540988733721673
+    second: Heroes-Atlas_24
+  - first:
+      213: -1465432188330679846
+    second: Heroes-Atlas_25
+  - first:
+      213: 3966599268697961073
+    second: Heroes-Atlas_26
+  - first:
+      213: -567157394743060399
+    second: Heroes-Atlas_27
+  - first:
+      213: -5730538920096447913
+    second: Heroes-Atlas_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Heroes-Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 21
+        width: 296
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7896c0bab551ee560800000000000000
+      internalID: 7344831525743782279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroes-Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 18
+        width: 298
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e0fc6b9b433f8e0800000000000000
+      internalID: -1660925865328963984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroes-Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 295
+        width: 1154
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8246da41d7c93c360800000000000000
+      internalID: 7188761491245196328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroes-Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 227
+        width: 227
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e367f8962aa86300800000000000000
+      internalID: 245633262443521001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroes-Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 178
+        width: 87
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af158ea6914657500800000000000000
+      internalID: 393330602795356666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroes-Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 209
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874c94081ef14c5f0800000000000000
+      internalID: -737429385601497992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroes-Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 208
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95666fe1605d5ba80800000000000000
+      internalID: -8451614903424883111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroes-Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 209
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd904cc6d50276c0800000000000000
+      internalID: -4147245886746878473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroes-Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 206
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdf196120e6dfd70800000000000000
+      internalID: 9078533379096444346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroes-Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 197
+        width: 317
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754b230b6262d4320800000000000000
+      internalID: 2543731312140923991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroes-Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 128
+        width: 329
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c942bba352740bce0800000000000000
+      internalID: -1391534059632778084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroes-Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 119
+        width: 111
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5987116660dd70d40800000000000000
+      internalID: 5550648085309388949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroes-Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 194
+        width: 234
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c8ad0f0d2850860800000000000000
+      internalID: 7495540988733721673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroes-Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 268
+        width: 1154
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1602c503db9abe0800000000000000
+      internalID: -1465432188330679846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroes-Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 160
+        width: 234
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172f019d4013c0730800000000000000
+      internalID: 3966599268697961073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroes-Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 139
+        width: 221
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1589a9aba5d0128f0800000000000000
+      internalID: -567157394743060399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroes-Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 205
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752c910c6390970b0800000000000000
+      internalID: -5730538920096447913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

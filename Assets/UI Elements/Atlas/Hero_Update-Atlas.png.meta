@@ -1,0 +1,1500 @@
+fileFormatVersion: 2
+guid: 266d41998c9f1494881816c461134304
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2091527378868590569
+    second: Hero_Update-Atlas_0
+  - first:
+      213: 154625835885922108
+    second: Hero_Update-Atlas_2
+  - first:
+      213: 6182631451969194126
+    second: Hero_Update-Atlas_4
+  - first:
+      213: -3553525346338791645
+    second: Hero_Update-Atlas_6
+  - first:
+      213: 8869259682101810835
+    second: Hero_Update-Atlas_7
+  - first:
+      213: -2027909845283833231
+    second: Hero_Update-Atlas_8
+  - first:
+      213: 9167167177564451066
+    second: Hero_Update-Atlas_9
+  - first:
+      213: 2710353302338316948
+    second: Hero_Update-Atlas_10
+  - first:
+      213: -5400506858509048934
+    second: Hero_Update-Atlas_11
+  - first:
+      213: -8064968750382687490
+    second: Hero_Update-Atlas_12
+  - first:
+      213: -5459289091239931263
+    second: Hero_Update-Atlas_13
+  - first:
+      213: -7202539856099927509
+    second: Hero_Update-Atlas_14
+  - first:
+      213: -6728798766612100745
+    second: Hero_Update-Atlas_15
+  - first:
+      213: 6784787340257184399
+    second: Hero_Update-Atlas_16
+  - first:
+      213: -3369472481004578284
+    second: Hero_Update-Atlas_17
+  - first:
+      213: 7287649459721493112
+    second: Hero_Update-Atlas_18
+  - first:
+      213: 469917718235218465
+    second: Hero_Update-Atlas_19
+  - first:
+      213: 2251963927594026676
+    second: Hero_Update-Atlas_20
+  - first:
+      213: 7306113054198394452
+    second: Hero_Update-Atlas_21
+  - first:
+      213: -6700466112997010473
+    second: Hero_Update-Atlas_22
+  - first:
+      213: -2506446992136368187
+    second: Hero_Update-Atlas_23
+  - first:
+      213: 6549706232475979407
+    second: Hero_Update-Atlas_24
+  - first:
+      213: 7860519363081871972
+    second: Hero_Update-Atlas_25
+  - first:
+      213: 8592301284993223603
+    second: Hero_Update-Atlas_26
+  - first:
+      213: 1781216181372702420
+    second: Hero_Update-Atlas_1
+  - first:
+      213: -3875739422812891357
+    second: Hero_Update-Atlas_5
+  - first:
+      213: -5923893466258280766
+    second: Hero_Update-Atlas_3
+  - first:
+      213: 8211513081695391117
+    second: Hero_Update-Atlas_27
+  - first:
+      213: 1219592131587148215
+    second: Hero_Update-Atlas_28
+  - first:
+      213: 4707912938069406197
+    second: Hero_Update-Atlas_29
+  - first:
+      213: 7358563128688474657
+    second: Hero_Update-Atlas_30
+  - first:
+      213: -2712869109157858382
+    second: Hero_Update-Atlas_31
+  - first:
+      213: -378282571847150427
+    second: Hero_Update-Atlas_32
+  - first:
+      213: -2940701793112988424
+    second: Hero_Update-Atlas_33
+  - first:
+      213: 2392616533846767194
+    second: Hero_Update-Atlas_34
+  - first:
+      213: 8009963107808434828
+    second: Hero_Update-Atlas_35
+  - first:
+      213: 4020530834258376311
+    second: Hero_Update-Atlas_36
+  - first:
+      213: 3701578772457819773
+    second: Hero_Update-Atlas_37
+  - first:
+      213: 5404077241490546653
+    second: Hero_Update-Atlas_38
+  - first:
+      213: 2806222413857589856
+    second: Hero_Update-Atlas_39
+  - first:
+      213: 5465020584215494739
+    second: Hero_Update-Atlas_40
+  - first:
+      213: -1502110273608961899
+    second: Hero_Update-Atlas_41
+  - first:
+      213: 4633822177148968468
+    second: Hero_Update-Atlas_42
+  - first:
+      213: -6290861308009911783
+    second: Hero_Update-Atlas_43
+  - first:
+      213: 4764822837915819366
+    second: Hero_Update-Atlas_44
+  - first:
+      213: -549111627523182119
+    second: Hero_Update-Atlas_45
+  - first:
+      213: 2700441627175895697
+    second: Hero_Update-Atlas_46
+  - first:
+      213: 2839714640327332539
+    second: Hero_Update-Atlas_47
+  - first:
+      213: 3072954577644148750
+    second: Hero_Update-Atlas_48
+  - first:
+      213: -5740457085660338225
+    second: Hero_Update-Atlas_49
+  - first:
+      213: 7318498761085818917
+    second: Hero_Update-Atlas_50
+  - first:
+      213: -5517051013222932009
+    second: Hero_Update-Atlas_51
+  - first:
+      213: -105249218862011762
+    second: Hero_Update-Atlas_52
+  - first:
+      213: -1370042099934558194
+    second: Hero_Update-Atlas_53
+  - first:
+      213: -7976599615968614843
+    second: Hero_Update-Atlas_54
+  - first:
+      213: -621628270576676888
+    second: Hero_Update-Atlas_55
+  - first:
+      213: 6215654769587479346
+    second: Hero_Update-Atlas_56
+  - first:
+      213: -518824735369278209
+    second: Hero_Update-Atlas_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 485
+        width: 524
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e75777d119960d10800000000000000
+      internalID: 2091527378868590569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 282
+        width: 486
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c370415e067552200800000000000000
+      internalID: 154625835885922108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 246
+        width: 504
+        height: 774
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8808cf6c8e1dc550800000000000000
+      internalID: 6182631451969194126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 400
+        width: 247
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f112f56875faec0800000000000000
+      internalID: -3553525346338791645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 400
+        width: 247
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3965f5480b0f51b70800000000000000
+      internalID: 8869259682101810835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 403
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17af6537dba6bd3e0800000000000000
+      internalID: -2027909845283833231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 403
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0795f6af1583f70800000000000000
+      internalID: 9167167177564451066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 414
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49aaea9e7fb1d9520800000000000000
+      internalID: 2710353302338316948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 329
+        width: 442
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93e18310ab8d05b0800000000000000
+      internalID: -5400506858509048934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 328
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa50dcc6a9731090800000000000000
+      internalID: -8064968750382687490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 203
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1829a7efe75bc34b0800000000000000
+      internalID: -5459289091239931263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 114
+        width: 244
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a129c59207b0c90800000000000000
+      internalID: -7202539856099927509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 75
+        width: 129
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779cff62c218e92a0800000000000000
+      internalID: -6728798766612100745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 132
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ac89c7328682e50800000000000000
+      internalID: 6784787340257184399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 141
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a944971aa3d31d0800000000000000
+      internalID: -3369472481004578284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 109
+        width: 441
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a544e629ee22560800000000000000
+      internalID: 7287649459721493112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 45
+        width: 343
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122821dccab758600800000000000000
+      internalID: 469917718235218465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 47
+        width: 344
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b64c3fb245904f10800000000000000
+      internalID: 2251963927594026676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 22
+        width: 219
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ee6540d17846560800000000000000
+      internalID: 7306113054198394452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 12
+        width: 332
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3554122992303a0800000000000000
+      internalID: -6700466112997010473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 12
+        width: 179
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf8d598dbf473dd0800000000000000
+      internalID: -2506446992136368187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 904
+        width: 125
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e84e9dd1b35ea50800000000000000
+      internalID: 6549706232475979407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 903
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4622392c6bc261d60800000000000000
+      internalID: 7860519363081871972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 918
+        width: 542
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb4727ae7cfd3770800000000000000
+      internalID: 8592301284993223603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 983
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dec5eefda628b810800000000000000
+      internalID: 1781216181372702420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 985
+        width: 185
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327924d878b963ac0800000000000000
+      internalID: -3875739422812891357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 950
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ceea60574a1acda0800000000000000
+      internalID: -5923893466258280766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 954
+        width: 112
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d4dee24a725f170800000000000000
+      internalID: 8211513081695391117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 913
+        width: 82
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b90d1ef49cdce010800000000000000
+      internalID: 1219592131587148215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 912
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1b713afddd55140800000000000000
+      internalID: 4707912938069406197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 913
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a73ce9d2ede1660800000000000000
+      internalID: 7358563128688474657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 911
+        width: 99
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3f38a2be3f95ad0800000000000000
+      internalID: -2712869109157858382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 706
+        width: 159
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a45450510210caf0800000000000000
+      internalID: -378282571847150427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 774
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f46527bc478037d0800000000000000
+      internalID: -2940701793112988424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 641
+        width: 129
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56b9a79f08443120800000000000000
+      internalID: 2392616533846767194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 500
+        width: 159
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ad7e8020b192f60800000000000000
+      internalID: 8009963107808434828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 507
+        width: 129
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776b978fd7bcbc730800000000000000
+      internalID: 4020530834258376311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 198
+        width: 447
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e89702846ae5330800000000000000
+      internalID: 3701578772457819773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 285
+        width: 246
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf11dd7e932ffa40800000000000000
+      internalID: 5404077241490546653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 300
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a88bada64b1f620800000000000000
+      internalID: 2806222413857589856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 221
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350cc543447a7db40800000000000000
+      internalID: 5465020584215494739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 148
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590b2182aae672be0800000000000000
+      internalID: -1502110273608961899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 73
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e9a4518b4ae4040800000000000000
+      internalID: 4633822177148968468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ae1d488fe52b8a0800000000000000
+      internalID: -6290861308009911783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 239
+        width: 228
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d14af302d002240800000000000000
+      internalID: 4764822837915819366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 192
+        width: 228
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1b17352e92168f0800000000000000
+      internalID: -549111627523182119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 145
+        width: 228
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1924f743a55e97520800000000000000
+      internalID: 2700441627175895697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 100
+        width: 228
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2df208b61b86720800000000000000
+      internalID: 2839714640327332539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 51
+        width: 228
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08d36b38e355aa20800000000000000
+      internalID: 3072954577644148750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 4
+        width: 228
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc767d0e1bcc550b0800000000000000
+      internalID: -5740457085660338225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 258
+        width: 444
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52818af19d7809560800000000000000
+      internalID: 7318498761085818917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 213
+        width: 418
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d16325855f7f63b0800000000000000
+      internalID: -5517051013222932009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 166
+        width: 204
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8aa7d0a4641a8ef0800000000000000
+      internalID: -105249218862011762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 171
+        width: 68
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08021a08f1acfce0800000000000000
+      internalID: -1370042099934558194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 99
+        width: 426
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5466cae39ec6d4190800000000000000
+      internalID: -7976599615968614843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 68
+        width: 191
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efcfe5a1688f57f0800000000000000
+      internalID: -621628270576676888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 37
+        width: 191
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23369bbb411724650800000000000000
+      internalID: 6215654769587479346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_Update-Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 6
+        width: 190
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcc0abe6a3ccc8f0800000000000000
+      internalID: -518824735369278209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
